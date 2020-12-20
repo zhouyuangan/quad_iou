@@ -1,6 +1,6 @@
 # quad_iou
 
-> Calculate the IoU between convex quadrilaterals
+> Calculate the IoU between convex quadrilaterals | [÷–ŒƒΩÈ…‹](./README_CN.md)
 
 This code comes from `rotation/rotate_polygon_nms_kernel.cu` in [RRPN_pytorch](https://github.com/mjq11302010044/RRPN_pytorch),
 [rotate_polygon_nms_kernel.cu](https://github.com/mjq11302010044/RRPN_pytorch/blob/master/rotation/rotate_polygon_nms_kernel.cu)
