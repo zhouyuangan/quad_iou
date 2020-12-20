@@ -1,7 +1,9 @@
-# 计算凸四边形之间的交并比
+# quad_iou 
 
-该代码来自(RRPN_pytorch)[https://github.com/mjq11302010044/RRPN_pytorch]中的`rotation/rotate_polygon_nms_kernel.cu`, 
-(rotate_polygon_nms_kernel.cu)[https://github.com/mjq11302010044/RRPN_pytorch/blob/master/rotation/rotate_polygon_nms_kernel.cu]
+> 计算凸四边形之间的交并比
+
+该代码来自[RRPN_pytorch](https://github.com/mjq11302010044/RRPN_pytorch)中的`rotation/rotate_polygon_nms_kernel.cu`, 
+[rotate_polygon_nms_kernel.cu](https://github.com/mjq11302010044/RRPN_pytorch/blob/master/rotation/rotate_polygon_nms_kernel.cu)
 
 ## 环境
 
